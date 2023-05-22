@@ -10,4 +10,4 @@
 
 ### Links
 
-- Live Site URL: [SUSHIMAN](https://bobson.github.io/sushiman/)
+- Live Site URL: [SUSHIMAN](https://sushiman-web.netlify.app/)
